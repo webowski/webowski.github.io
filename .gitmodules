@@ -1,3 +1,6 @@
 [submodule "ubem.git"]
 	path = ubem
 	url = https://github.com/webowski/ubem.git
+[submodule "webza"]
+	path = webza
+	url = https://github.com/webowski/webza.git
