@@ -1,0 +1,3 @@
+[submodule "ubem.git"]
+	path = ubem
+	url = https://github.com/webowski/ubem.git
