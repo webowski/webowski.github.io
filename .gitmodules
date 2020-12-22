@@ -4,4 +4,4 @@
 
 [submodule "webza"]
 	path = webza-docs
-	url = git@github.com:webowski/webza-docs.git
+	url = https://github.com/webowski/webza-docs.git
