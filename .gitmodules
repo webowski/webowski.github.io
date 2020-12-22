@@ -3,5 +3,5 @@
 	url = https://github.com/webowski/ubem.git
 
 [submodule "webza"]
-	path = webza-docs
+	path = webza
 	url = https://github.com/webowski/webza-docs.git
