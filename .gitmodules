@@ -2,3 +2,6 @@
 	path = ubem
 	url = https://github.com/webowski/ubem.git
 
+[submodule "webza-docs"]
+	path = webza-docs
+	url = https://github.com/webowski/webza-docs.git
