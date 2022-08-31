@@ -5,6 +5,3 @@
 [submodule "webza-docs"]
 	path = webza-docs
 	url = https://github.com/webowski/webza-docs.git
-[submodule "its-test"]
-	path = its-test
-	url = git@github.com:webowski/its-test.git
